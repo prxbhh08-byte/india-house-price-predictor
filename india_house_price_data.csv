@@ -1,0 +1,41 @@
+city,locality,area_sqft,bedrooms,bathrooms,floor,total_floors,age_years,parking,furnished,near_metro,near_school,near_hospital,crime_index,price_lakhs
+Delhi,Dwarka,1200,3,2,4,10,5,1,Semi-Furnished,1,1,1,2,85
+Delhi,Rohini,950,2,1,2,8,10,0,Unfurnished,0,1,0,3,52
+Delhi,Saket,1800,3,2,7,12,3,2,Furnished,1,1,1,1,160
+Delhi,Lajpat Nagar,1100,2,2,3,6,8,1,Semi-Furnished,1,1,0,2,95
+Delhi,Janakpuri,1350,3,2,5,9,6,1,Furnished,1,0,1,2,110
+Delhi,Pitampura,900,2,1,1,7,12,0,Unfurnished,0,1,0,3,48
+Delhi,Vasant Kunj,2200,4,3,6,14,2,2,Furnished,1,1,1,1,210
+Delhi,Mayur Vihar,1050,2,2,3,8,7,1,Semi-Furnished,1,1,0,2,72
+Delhi,Dwarka,1400,3,2,6,10,4,1,Furnished,1,1,1,1,105
+Delhi,Karol Bagh,800,1,1,2,5,15,0,Unfurnished,1,0,0,4,45
+Mumbai,Andheri West,750,2,1,8,22,6,1,Semi-Furnished,1,1,0,2,145
+Mumbai,Bandra,1100,2,2,12,20,4,1,Furnished,1,1,1,1,310
+Mumbai,Powai,1300,3,2,9,18,3,2,Furnished,1,1,1,1,265
+Mumbai,Thane,1050,2,2,5,14,8,1,Semi-Furnished,0,1,0,2,95
+Mumbai,Malad,850,2,1,6,16,10,0,Unfurnished,1,1,0,3,98
+Mumbai,Navi Mumbai,1200,3,2,4,12,5,2,Semi-Furnished,0,1,1,2,85
+Mumbai,Juhu,1600,3,3,3,8,7,2,Furnished,1,0,1,1,380
+Mumbai,Borivali,900,2,1,7,15,9,0,Unfurnished,0,1,0,3,88
+Mumbai,Worli,2000,3,3,18,25,2,2,Furnished,1,1,1,1,520
+Mumbai,Kandivali,780,1,1,4,12,11,0,Semi-Furnished,1,0,0,3,75
+Bangalore,Whitefield,1400,3,2,4,10,4,2,Semi-Furnished,0,1,1,1,95
+Bangalore,Koramangala,1100,2,2,3,8,5,1,Furnished,1,1,1,1,145
+Bangalore,Indiranagar,1300,3,2,5,9,6,2,Furnished,1,1,1,1,165
+Bangalore,HSR Layout,1200,3,2,4,10,3,1,Semi-Furnished,0,1,0,2,110
+Bangalore,Electronic City,1050,2,1,6,14,7,1,Unfurnished,0,1,0,2,62
+Bangalore,Marathahalli,950,2,2,3,8,8,0,Semi-Furnished,0,1,0,3,72
+Bangalore,Sarjapur,1600,3,3,2,7,2,2,Furnished,0,1,1,1,115
+Bangalore,JP Nagar,1100,2,2,4,9,6,1,Furnished,1,1,0,2,108
+Bangalore,Yelahanka,1800,4,3,1,4,1,2,Semi-Furnished,0,0,1,2,125
+Bangalore,Hebbal,1350,3,2,7,12,4,1,Furnished,1,1,1,1,138
+Delhi,Greater Kailash,1700,3,2,2,4,20,1,Furnished,0,1,1,1,185
+Delhi,Dwarka Sector 10,1250,3,2,5,10,6,1,Semi-Furnished,1,1,0,2,92
+Mumbai,Chembur,1000,2,2,6,15,9,1,Semi-Furnished,1,1,0,2,118
+Mumbai,Goregaon,870,2,1,8,18,10,0,Unfurnished,1,1,0,3,92
+Bangalore,Bannerghatta,1450,3,2,3,8,5,2,Semi-Furnished,0,1,1,2,88
+Bangalore,Jayanagar,1250,3,2,4,7,10,1,Furnished,1,1,1,1,155
+Delhi,Noida Sector 62,1100,2,2,8,15,5,1,Semi-Furnished,1,1,0,2,78
+Delhi,Noida Sector 18,1500,3,2,10,20,3,2,Furnished,1,1,1,1,132
+Mumbai,Kharghar,1150,2,2,5,12,6,1,Semi-Furnished,0,1,0,2,82
+Bangalore,Hennur,1300,3,2,3,8,3,2,Unfurnished,0,0,1,2,78
